@@ -1,2 +1,2 @@
 # Sorvetinho
-Controle de temperatura por salas, camaras, ambientes, refrigeradores.
+O objetivo do nosso projeto é ter o controle de temperatura por salas, camaras, ambientes, refrigeradores
