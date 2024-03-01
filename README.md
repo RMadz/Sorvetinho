@@ -1,3 +1,5 @@
 # Sorvetinho
-O nosso objetivo é ter o controle de temperatura por salas, camaras, ambientes, refrigeradores
-que seja controlado por um arduíno pelo celular.
+O objetivo do nosso projeto é ter o controle de temperatura por salas, câmaras, ambientes, refrigeradores.
+Ele poderá ser controlado atavéz de um arduíno pelo celular, que detecta o consumo de energia.
+O consumo funcionaria de forma cronometrada ou controlada pelo ambiente. Além de ter um sistema de emergência 
+em caso de falhas.
