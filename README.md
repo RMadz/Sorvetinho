@@ -12,9 +12,9 @@ em caso de falhas.
 O controle de temperatura como o prório nome já diz, será o responsável pelo ajustes quando necessário da temperatura das salas, câmaras entre outras.
 
 # Página 2
-#### Consumo de energia cronometrado: 
+#### Consumo de energia: 
 
-Nesta página teremos as informações de consumo diário, que terá um intervalo de 2 horas desligado.
+Nesta página teremos as informações de consumo diário.
 
 # Página 3
 #### Suporte em caso emergência:
